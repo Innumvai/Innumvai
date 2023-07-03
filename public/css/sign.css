@@ -9,7 +9,13 @@ body{
 
 
 .box{
+    border-color: white;
+    border-top-color: white;
+    border-bottom-color: white;
+    border-left-color: white;
+    border-right-color: white;
     background-color: black;
+    border-style: dashed;
     border-radius: 50px;
     position: absolute;
     display: flex;
@@ -20,19 +26,6 @@ body{
 }
 
 
-@keyframes steam {
-    0%{
-        background-position: 0 0;
-    }
-    50%{
-        background-position: 400% 0;
-    }
-    100%{
-        background-position: 0 0;
-    }
-
-
-}
 @font-face {
     font-family: anu;
     src: url(Anurati-Regular.otf);
@@ -92,7 +85,8 @@ body{
 .usern{
     font-size: x-large;
     color: rgb(255, 255, 255);
-    font-family: el;display: flex;
+    font-family: el;
+    display: flex;
     flex: auto;
     align-items: center;
     justify-content: center;
