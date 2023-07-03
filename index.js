@@ -25,6 +25,7 @@ app.post("/",async(req,res) =>{
     const data={
         firstname:req.body.firstname,
         lastname:req.body.lastname,
+        number:req.body.number,
         address:req.body.address
     }
 
