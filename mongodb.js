@@ -18,6 +18,10 @@ const Signinschema=new mongoose.Schema({
         type:String,
         required:true
     },
+    number:{
+        type:Number,
+        required:true
+    },
     address:{
         type:String,
         required:true
