@@ -1,0 +1,266 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+
+.box{
+    background-color: rgb(0, 0, 0);
+    border-radius: 50px;
+    position: absolute;
+    display: flex;
+    flex: auto;
+    align-items: center;
+    justify-content: center;
+    padding: 12px;       
+    --glow-color: red;      
+    --glow-spread-color:red;
+}
+
+.box:before, .box:after{
+    content: '';
+    position: absolute;
+    left: -2px;
+    right: -2px;
+    background: linear-gradient(45deg, red,blue,green,yellow);
+    background-size: 400%;
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    z-index: -1;
+    animation:steam 20s linear infinite ;
+    border: none;
+    border-radius: 50px;
+    box-shadow: 0 0 200px red
+                0 0 200px blue
+                0 0 200px green
+                0 0 200px yellow;
+}
+.box:after{
+    filter: blur(50px);
+}
+
+@keyframes steam {
+    0%{
+        background-position: 0 0;
+    }
+    50%{
+        background-position: 400% 0;
+    }
+    100%{
+        background-position: 0 0;
+    }
+
+
+}
+@font-face {
+    font-family: anu;
+    src: url(Anurati-Regular.otf);
+}
+@font-face {
+    font-family: cri;
+    src: url(CRICKET\ PERSONAL\ USE.ttf);
+}
+@font-face {
+    font-family: el;
+    src: url(ELNATH.otf);
+}
+@font-face {
+    font-family: ho;
+    src: url(HOKUSAI\ PERSONAL\ USE.ttf);
+}
+@font-face {
+    font-family: ro;
+    src: url(Robot\ Monster\ Italic.otf);
+}
+@font-face {
+    font-family: sb;
+    src: url(SBRevolver-Regular.otf);
+}
+@font-face {
+    font-family: se;
+    src: url(Send\ Box.otf);
+}
+@font-face {
+    font-family: tt;
+    src: url(TT\ Smalls\ Trial\ ExtraBold\ Italic.otf);
+}
+@font-face {
+    font-family: ug;
+    src: url(Unknown\ Galaxy.otf);
+}
+@font-face {
+    font-family: u;
+    src: url(Unknown\ Galaxy\ Italic.otf);
+}
+@font-face {
+    font-family: ve;
+    src: url(VanemNonCommercial.ttf);
+}
+
+.lo{
+    font-weight: bolder;
+    font-size: 50px;
+    margin-bottom: 10px;
+    font-family: ve;
+    display: flex;
+    flex: auto;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.usern{
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+    font-family: el;display: flex;
+    flex: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.number{
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+    font-family: el;display: flex;
+    flex: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.pass{
+    font-family: el;
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex: auto;
+    align-items: center;
+    justify-content: center;
+}
+.login-box input[type="email"]{
+    flex: auto;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    background-color: black;
+    border-top-color: white;
+    border-bottom-color: white;
+    border-left-color: white;
+    border-right-color: white;
+    border-radius: 20px;
+    border-style: dashed;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    height: 50px;
+    width: 300px;
+    display: flex;
+    flex: auto;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+}
+.login-box input[type="text"]{
+    flex: auto;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    height: 50px;
+    border-style: dashed;
+    width: 300px;
+    background-color: black;
+    border-top-color: white;
+    border-bottom-color: white;
+    border-left-color: white;
+    border-right-color: white;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    transform-origin: 0 100%;
+    display: flex;
+    flex: auto;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.login-box input[type="tel"]{
+    flex: auto;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    height: 50px;
+    border-style: dashed;
+    width: 300px;
+    background-color: black;
+    border-top-color: white;
+    border-bottom-color: white;
+    border-left-color: white;
+    border-right-color: white;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    transform-origin: 0 100%;
+    display: flex;
+    flex: auto;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.bu{
+    margin-top: 10px;
+}
+
+.login-box button[type="submit"]{
+    font-weight: bolder;
+    font-size: 25px;
+    border-radius: 8px;
+    color: rgba(255, 255, 255, 0.692);
+    animation: mayin 3s infinite;
+    border-top-color: black;
+    border-bottom-color: black;
+    border-left-color: black;
+    border-right-color: black;
+    cursor: pointer;
+    display: flex;
+    float: auto;
+    align-items: center;
+    justify-content: center;
+    margin-left: 90px;
+    transition: .5s;
+    overflow: hidden;
+    background: black;
+}
+
+@keyframes mayin {
+    1%{
+        border-top-color: white;
+        border-bottom-color: rgb(255, 249, 249);
+        border-left-color: rgb(253, 253, 253);
+        border-right-color: rgb(255, 255, 255);
+    }
+}
+
+
+.login-box button[type="submit"]:hover{
+    transform: scale(115%);
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 25px rgb(0, 0, 0),
+                0 0 25px white,
+                0 0 50px rgb(0, 0, 0);
+}                
+
+.usern input.ty{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width:500px){
+    body{
+        margin-left: -20px;
+    }
+}
