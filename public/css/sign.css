@@ -9,7 +9,7 @@ body{
 
 
 .box{
-    background-color: white;
+    background-color: black;
     border-radius: 50px;
     position: absolute;
     display: flex;
