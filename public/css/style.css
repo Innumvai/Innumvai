@@ -50,14 +50,6 @@
 }
 
 @media(max-width:1200px){
-    html,body{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
-    }
     .innum{
         height: 8%;
         width: 8%;
@@ -101,14 +93,6 @@
 }
 
 @media(max-width:992px){
-    html,body{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
-    }
     .innum{
         height: 10%;
         width: 10%;
@@ -121,14 +105,6 @@
 }
 
 @media(max-width: 768px){
-    html,body{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
-    }
     .innum{
         height: 10%;
         width: 10%;
@@ -145,14 +121,6 @@
 }
 
 @media(max-width:480px){
-    html,body{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
-    }
     .innum{
         height: 20%;
         width: 20%;
@@ -617,16 +585,32 @@
         height: 50%;
     }
     .o1{
-        height: 900px;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
+    }
         justify-content: center;
     }
     .o2{
-        height: 500px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
+    }
     }
     .o3{
-        height: 500px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
+    }
     }
     .c2p{
         padding: 0 30px;
@@ -771,12 +755,20 @@
         height: 50%;
     }
     .o1{
-        height: 900px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
-    .o2{
-        height: 500px;
-        justify-content: center;
+   .o2{
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
     .o2 h1{
         display: flex;
@@ -810,8 +802,12 @@
         margin-left: 150px;
     }
     .o3{
-        height: 500px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
     .c2p{
         padding: 0 30px;
@@ -961,16 +957,28 @@
         height: 50%;
     }
     .o1{
-        height: 600px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
     .o2{
-        height: 500px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
     .o3{
-        height: 500px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
     .c2p{
         padding: 0 30px;
@@ -1081,16 +1089,28 @@
         align-self: last baseline;
     }
     .o1{
-        height: 500px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
     .o2{
-        height: 500px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
     .o3{
-        height: 500px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
 
     .click button.button{
@@ -1184,16 +1204,28 @@
         align-self: last baseline;
     }
     .o1{
-        height: 500px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
     .o2{
-        height: 500px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
     .o3{
-        height: 500px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
 
     .click button.button{
@@ -1288,16 +1320,28 @@
         align-self: last baseline;
     }
     .o1{
-        height: 500px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
     .o2{
-        height: 500px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
     .o3{
-        height: 500px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
 
     .click button.button{
@@ -1392,16 +1436,28 @@
         align-self: last baseline;
     }
     .o1{
-        height: 500px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
     .o2{
-        height: 500px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
     .o3{
-        height: 500px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
 
     .click button.button{
@@ -1496,18 +1552,30 @@
         align-self: last baseline;
     }
     .o1{
-        height: 500px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
     .o2{
-        height: 500px;
-        justify-content: center;
-    }
-    .o3{
-        height: 500px;
-        justify-content: center;
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
     }
 
+    .o3{
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
+    }
     .click button.button{
         margin-top: 250px;
     }
