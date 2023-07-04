@@ -1,7 +1,9 @@
 body,html{
         height: 100%;
         width:100%;
-        overflow-y: hidden;
+        margin:0;
+        padding:0;
+        overflow-x: hidden;
         background-repeat: none;
 }
 .dropdown-content{
@@ -562,6 +564,14 @@ body,html{
 }
 
 @media(max-width:1200px){
+    body,html{
+        height: 100%;
+        width:100%;
+        margin:0;
+        padding:0;
+        overflow-x: hidden;
+        background-repeat: none;
+    }
     .ima{
         height: 500px;
         width: 600px;
@@ -708,6 +718,14 @@ body,html{
 }
 
 @media(max-width:992px){
+    body,html{
+        height: 100%;
+        width:100%;
+        margin:0;
+        padding:0;
+        overflow-x: hidden;
+        background-repeat: none;
+    }
     .ima{
         height: 500px;
         width: 600px;
@@ -889,6 +907,14 @@ body,html{
 
 }
 @media(max-width: 768px){
+    body,html{
+        height: 100%;
+        width:100%;
+        margin:0;
+        padding:0;
+        overflow-x: hidden;
+        background-repeat: none;
+    }
     .ima{
         height: 200px;
         width: 500px;
@@ -959,6 +985,14 @@ body,html{
 }
 
 @media(max-width:480px){
+    body,html{
+        height: 100%;
+        width:100%;
+        margin:0;
+        padding:0;
+        overflow-x: hidden;
+        background-repeat: none;
+    }
     #home{
         margin-top: 50px;
         justify-content: center;
@@ -1054,6 +1088,14 @@ body,html{
     }
 }
 @media(max-width:624px){
+    body,html{
+        height: 100%;
+        width:100%;
+        margin:0;
+        padding:0;
+        overflow-x: hidden;
+        background-repeat: none;
+    }
     #home{
         margin-top: 50px;
         justify-content: center;
@@ -1150,6 +1192,14 @@ body,html{
 }
 
 @media(max-width:672px){
+    body,html{
+        height: 100%;
+        width:100%;
+        margin:0;
+        padding:0;
+        overflow-x: hidden;
+        background-repeat: none;
+    }
     #home{
         margin-top: 50px;
         justify-content: center;
@@ -1246,6 +1296,14 @@ body,html{
 }
 
 @media(max-width:576px){
+    body,html{
+        height: 100%;
+        width:100%;
+        margin:0;
+        padding:0;
+        overflow-x: hidden;
+        background-repeat: none;
+    }
     #home{
         margin-top: 50px;
         justify-content: center;
@@ -1342,6 +1400,14 @@ body,html{
 }
 
 @media(max-width:384px){
+    body,html{
+        height: 100%;
+        width:100%;
+        margin:0;
+        padding:0;
+        overflow-x: hidden;
+        background-repeat: none;
+    }
     #home{
         margin-top: 50px;
         justify-content: center;
