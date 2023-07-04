@@ -1,4 +1,11 @@
-
+body,html{
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
+    }
 .dropdown-content{
     display: flex;
     gap: 10px;
@@ -557,14 +564,6 @@
 }
 
 @media(max-width:1200px){
-    html,body{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
-    }
     .ima{
         height: 500px;
         width: 600px;
@@ -727,14 +726,6 @@
 }
 
 @media(max-width:992px){
-    html,body{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
-    }
     .ima{
         height: 500px;
         width: 600px;
@@ -928,14 +919,6 @@
 
 }
 @media(max-width: 768px){
-    html,body{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
-    }
     .ima{
         height: 200px;
         width: 500px;
@@ -1018,14 +1001,6 @@
 }
 
 @media(max-width:480px){
-    html,body{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
-    }
     #home{
         margin-top: 50px;
         justify-content: center;
@@ -1133,14 +1108,6 @@
     }
 }
 @media(max-width:624px){
-    html,body{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
-    }
     #home{
         margin-top: 50px;
         justify-content: center;
@@ -1249,14 +1216,6 @@
 }
 
 @media(max-width:672px){
-    html,body{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
-    }
     #home{
         margin-top: 50px;
         justify-content: center;
@@ -1365,14 +1324,6 @@
 }
 
 @media(max-width:576px){
-    html,body{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
-    }
     #home{
         margin-top: 50px;
         justify-content: center;
@@ -1481,14 +1432,6 @@
 }
 
 @media(max-width:384px){
-    html,body{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
-    }
     #home{
         margin-top: 50px;
         justify-content: center;
