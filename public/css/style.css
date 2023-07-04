@@ -584,32 +584,16 @@ body{
         height: 50%;
     }
     .o1{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
-    }
+        height: 900px;
         justify-content: center;
     }
     .o2{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
-    }
+        height: 500px;
+        justify-content: center;
     }
     .o3{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
-    }
+        height: 500px;
+        justify-content: center;
     }
     .c2p{
         padding: 0 30px;
@@ -746,20 +730,12 @@ body{
         height: 50%;
     }
     .o1{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 900px;
+        justify-content: center;
     }
-   .o2{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+    .o2{
+        height: 500px;
+        justify-content: center;
     }
     .o2 h1{
         display: flex;
@@ -793,12 +769,8 @@ body{
         margin-left: 150px;
     }
     .o3{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 500px;
+        justify-content: center;
     }
     .c2p{
         padding: 0 30px;
@@ -940,28 +912,16 @@ body{
         height: 50%;
     }
     .o1{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 600px;
+        justify-content: center;
     }
     .o2{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 500px;
+        justify-content: center;
     }
     .o3{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 500px;
+        justify-content: center;
     }
     .c2p{
         padding: 0 30px;
@@ -1064,28 +1024,16 @@ body{
         align-self: last baseline;
     }
     .o1{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 500px;
+        justify-content: center;
     }
     .o2{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 500px;
+        justify-content: center;
     }
     .o3{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 500px;
+        justify-content: center;
     }
 
     .click button.button{
@@ -1171,28 +1119,16 @@ body{
         align-self: last baseline;
     }
     .o1{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 500px;
+        justify-content: center;
     }
     .o2{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 500px;
+        justify-content: center;
     }
     .o3{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 500px;
+        justify-content: center;
     }
 
     .click button.button{
@@ -1279,28 +1215,16 @@ body{
         align-self: last baseline;
     }
     .o1{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 600px;
+        justify-content: center;
     }
     .o2{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 500px;
+        justify-content: center;
     }
     .o3{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 500px;
+        justify-content: center;
     }
 
     .click button.button{
@@ -1387,28 +1311,16 @@ body{
         align-self: last baseline;
     }
     .o1{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 600px;
+        justify-content: center;
     }
     .o2{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 500px;
+        justify-content: center;
     }
     .o3{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 500px;
+        justify-content: center;
     }
 
     .click button.button{
@@ -1495,29 +1407,16 @@ body{
         align-self: last baseline;
     }
     .o1{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 600px;
+        justify-content: center;
     }
     .o2{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 500px;
+        justify-content: center;
     }
-
     .o3{
-        height: 100%;
-        width:100%;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; 
-        background-repeat: none;
+        height: 500px;
+        justify-content: center;
     }
     .click button.button{
         margin-top: 250px;
