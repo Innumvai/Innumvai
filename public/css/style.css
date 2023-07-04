@@ -1,3 +1,12 @@
+html,body{
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
+    }
+
 .dropdown-content{
     display: flex;
     gap: 10px;
@@ -49,6 +58,14 @@
 }
 
 @media(max-width:1200px){
+    html,body{
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
+    }
     .innum{
         height: 8%;
         width: 8%;
@@ -92,6 +109,14 @@
 }
 
 @media(max-width:992px){
+    html,body{
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
+    }
     .innum{
         height: 10%;
         width: 10%;
@@ -104,6 +129,14 @@
 }
 
 @media(max-width: 768px){
+    html,body{
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
+    }
     .innum{
         height: 10%;
         width: 10%;
@@ -120,6 +153,14 @@
 }
 
 @media(max-width:480px){
+    html,body{
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
+    }
     .innum{
         height: 20%;
         width: 20%;
@@ -556,6 +597,14 @@
 }
 
 @media(max-width:1200px){
+    html,body{
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
+    }
     .ima{
         height: 500px;
         width: 600px;
@@ -702,6 +751,14 @@
 }
 
 @media(max-width:992px){
+    html,body{
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
+    }
     .ima{
         height: 500px;
         width: 600px;
@@ -883,6 +940,14 @@
 
 }
 @media(max-width: 768px){
+    html,body{
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
+        background-repeat: none;
+    }
     .ima{
         height: 200px;
         width: 500px;
@@ -953,8 +1018,12 @@
 }
 
 @media(max-width:480px){
-    body{
-        height: 100vh;
+    html,body{
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
         background-repeat: none;
     }
     #home{
@@ -1052,8 +1121,12 @@
     }
 }
 @media(max-width:624px){
-    body{
-        height: 100vh;
+    html,body{
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
         background-repeat: none;
     }
     #home{
@@ -1152,8 +1225,12 @@
 }
 
 @media(max-width:672px){
-    body{
-        height: 90vh;
+    html,body{
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
         background-repeat: none;
     }
     #home{
@@ -1252,8 +1329,12 @@
 }
 
 @media(max-width:576px){
-    body{
-        height: 90vh;
+    html,body{
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
         background-repeat: none;
     }
     #home{
@@ -1352,8 +1433,12 @@
 }
 
 @media(max-width:384px){
-    body{
-        height: 90vh;
+    html,body{
+        height: 100%;
+        width:100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; 
         background-repeat: none;
     }
     #home{
