@@ -1044,9 +1044,11 @@
     }
     .contact h1{
         margin-left: -250px;
+        margin-top: 200px;
     }
     .but{
         margin-left: -325px;
+        margin-top: 200px;
     }
 }
 @media(max-width:624px){
